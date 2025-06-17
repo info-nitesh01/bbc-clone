@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "New smart glasses give the blind a virtual sense of sight",
+    "summary": "Innovative eyewear uses AI and audio cues to help visually impaired users recognize objects and avoid obstacles.",
+    "image": "/assets/images/news/dmnews1.jpg",
+    "href": "/news/1",
+    "time": "12 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 2,
+    "title": "AI traffic systems promise smoother city commutes",
+    "summary": "Cities are implementing intelligent traffic lights that adapt in real-time to reduce delays and emissions.",
+    "image": "/assets/images/news/dmnews2.jpg",
+    "href": "/news/1",
+    "time": "14 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 3,
+    "title": "Solar smartphone redefines power on the go",
+    "summary": "A game-changing mobile phone uses solar panels to stay charged—ideal for areas with limited power access.",
+    "image": "/assets/images/news/dmnews3.jpg",
+    "href": "/news/1",
+    "time": "16 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 4,
+    "title": "Quantum encryption poised to revolutionize data security",
+    "summary": "Scientists say quantum computing could create unbreakable digital locks for future communications.",
+    "image": "/assets/images/news/dmnews4.jpg",
+    "href": "/news/1",
+    "time": "18 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 5,
+    "title": "Paper-based batteries aim to curb toxic e-waste",
+    "summary": "New eco-batteries offer a safe, biodegradable alternative to conventional power cells.",
+    "image": "/assets/images/news/dmnews5.jpg",
+    "href": "/news/1",
+    "time": "20 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 6,
+    "title": "Big Tech allies to counter deepfake threats",
+    "summary": "Top firms launch initiative to authenticate digital content and detect synthetic media in real time.",
+    "image": "/assets/images/news/dmnews6.jpg",
+    "href": "/news/1",
+    "time": "22 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 7,
+    "title": "Drones deliver critical medicine to India's remote regions",
+    "summary": "AI-powered drones are providing fast, life-saving healthcare to villages previously cut off by terrain.",
+    "image": "/assets/images/news/dmnews1.jpg",
+    "href": "/news/1",
+    "time": "1 day ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 8,
+    "title": "Robotic arms take over fruit picking with precision",
+    "summary": "Strawberries and other delicate crops are now harvested by gentle, AI-driven farm machines.",
+    "image": "/assets/images/news/dmnews2.jpg",
+    "href": "/news/1",
+    "time": "1 day ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 9,
+    "title": "Brain chips may soon allow silent conversations",
+    "summary": "Neural interfaces could enable users to share thoughts directly without speaking or typing.",
+    "image": "/assets/images/news/dmnews3.jpg",
+    "href": "/news/1",
+    "time": "2 days ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  }
+]

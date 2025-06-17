@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "AI-powered glasses help visually impaired 'see' surroundings",
+    "summary": "A groundbreaking new wearable is allowing people with vision loss to identify objects and navigate more independently.",
+    "image": "/assets/images/news/mwnews3.jpg",
+    "href": "/news/1",
+    "time": "12 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 2,
+    "title": "Major cities adopt smart traffic signals to ease congestion",
+    "summary": "Urban centers across the globe are turning to AI-driven systems to reduce traffic jams and carbon emissions.",
+    "image": "/assets/images/news/mwnews4.jpg",
+    "href": "/news/1",
+    "time": "14 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 3,
+    "title": "Startup launches solar-powered smartphone",
+    "summary": "The eco-friendly device can charge completely using sunlight, designed for remote areas with limited electricity access.",
+    "image": "/assets/images/news/mwnews5.jpg",
+    "href": "/news/1",
+    "time": "16 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 4,
+    "title": "Quantum computing: The next leap in cybersecurity",
+    "summary": "Experts believe quantum encryption will reshape how we protect sensitive information online.",
+    "image": "/assets/images/news/mwnews6.jpg",
+    "href": "/news/1",
+    "time": "18 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 5,
+    "title": "Can biodegradable batteries solve e-waste crisis?",
+    "summary": "Researchers unveil sustainable energy cells made from paper and non-toxic materials.",
+    "image": "/assets/images/news/mwnews7.jpg",
+    "href": "/news/1",
+    "time": "20 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 6,
+    "title": "Tech giants join forces to fight deepfake misinformation",
+    "summary": "Google, Meta, and Microsoft pledge to develop verification tools and watermarking standards.",
+    "image": "/assets/images/news/mwnews8.jpg",
+    "href": "/news/1",
+    "time": "22 hrs ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 7,
+    "title": "How drone delivery is reshaping healthcare in rural India",
+    "summary": "Remote villages now receive critical medicine and vaccines via AI-guided drones.",
+    "image": "/assets/images/news/mwnews9.jpg",
+    "href": "/news/1",
+    "time": "1 day ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 8,
+    "title": "Smart farming: Robots now harvest delicate fruits",
+    "summary": "New robotic arms equipped with AI are picking strawberries faster and with less damage than human hands.",
+    "image": "/assets/images/news/mwnews10.jpg",
+    "href": "/news/1",
+    "time": "1 day ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 9,
+    "title": "Can brain-computer interfaces make telepathy real?",
+    "summary": "Neuralink and other startups are experimenting with devices that allow direct communication via brain signals.",
+    "image": "/assets/images/news/mwnews11.jpg",
+    "href": "/news/1",
+    "time": "2 days ago",
+    "place": "Technology",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  }
+]
+
+

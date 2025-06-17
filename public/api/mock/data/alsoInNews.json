@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "type": "main",
+    "title": "Wait for bodies deepens pain of families after Air India crash",
+    "summary": "Officials said on Saturday that 11 victims had been identified so far based on their DNA samples.",
+    "image": "/assets/images/news/ainNews1.jpg",
+    "href" : "/news/1",
+    "time" : "15 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 2,
+    "type": "other1",
+    "title": "Race to mine metals for EV batteries threatens marine paradise",
+    "summary": "Photographs appear to show how nickel mining damaged one the world's most diverse marine environments.",
+    "image": "/assets/images/news/ainNews2.jpg",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Climate"
+  },
+  {
+    "id": 3,
+    "type": "other1",
+    "title": "Paternity leave: How much time off work do new dads get across Europe?",
+    "summary": "Most fathers in the UK get two weeks off work after their baby is born, but dads in many European countries get more.",
+    "image": "/assets/images/news/ainNews3.jpg",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Family & Education"
+  },
+  {
+    "id": 4,
+    "type": "other1",
+    "title": "The women at the centre of Somalia's construction boom",
+    "summary": "Mogadishu's rapid expansion after decades of war is giving unexpected opportunities in a male-dominated society.",
+    "image": "/assets/images/news/ainNews4.jpg",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Africa"
+  },
+  {
+    "id": 5,
+    "type": "other2",
+    "title": "Macron visits Greenland in show of European unity and signal to Trump",
+    "summary": "France's Emmanuel Macron is visiting Greenland to hold talks on North Atlantic and Arctic security, climate change and critical minerals.",
+    "image": "/assets/images/news/ainNews5.jpg",
+    "href" : "/news/1",
+    "time" : "14 hrs ago",
+    "place" : "Europe"
+  },
+  {
+    "id": 6,
+    "type": "other2",
+    "title": "Missing US journalist Austin Tice was executed, claims ex-Syrian commander",
+    "summary": "Major General Bassam Al Hassan claims former Syrian President Assad ordered Austin Tice's execution.",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "11 hrs ago",
+    "place" : "World"
+  },
+  {
+    "id": 7,
+    "type": "other2",
+    "title": "Fifteen killed by Israeli fire near Gaza aid site, hospitals say",
+    "summary": "Information on the latest incident is scarce as the internet has been down in Gaza for more than two days.",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "20 hrs ago",
+    "place" : "Middle East"
+  }
+]
+

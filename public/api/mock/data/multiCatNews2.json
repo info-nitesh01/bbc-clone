@@ -1,0 +1,170 @@
+{
+  "Cat1": [
+    {
+      "id": 1,
+      "heading": "Travel",
+      "title": "Minnesota lawmakers targeted in shocking home invasions",
+      "summary": "Two politicians were attacked in a coordinated assault that raised serious political tensions.",
+      "image": "/assets/images/news/multicat2-1.jpg",
+      "href": "/news/1",
+      "time": "31 May 2025",
+      "place": "Culture"
+    },
+    {
+      "id": 2,
+      "heading": "Travel",
+      "title": "Survivors recall harrowing Minnesota shootings",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "9 Jun 2024",
+      "place": "Travel"
+    },
+    {
+      "id": 3,
+      "heading": "Travel",
+      "title": "Police uncover suspect's vehicle in Minnesota case",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Culture"
+    },
+    {
+      "id": 4,
+      "heading": "Travel",
+      "title": "Minnesota political killings spark national outrage",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Culture"
+    }
+  ],
+  "Cat2": [
+    {
+      "id": 5,
+      "heading": "World's Table",
+      "title": "Parents flee unsafe Cape Town schools",
+      "summary": "Safety fears push families to seek education in distant districts.",
+      "image": "/assets/images/news/multicat2-2.jpg",
+      "href": "/news/1",
+      "time": "31 May 2025",
+      "place": "Culture"
+    },
+    {
+      "id": 6,
+      "heading": "World's Table",
+      "title": "Iran strikes escalate tensions with Israel",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "9 Jun 2024",
+      "place": "Travel"
+    },
+    {
+      "id": 7,
+      "heading": "World's Table",
+      "title": "UK warns against travel to Israel",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Culture"
+    },
+    {
+      "id": 8,
+      "heading": "World's Table",
+      "title": "Firsthand look at devastation in Bat Yam",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Culture"
+    }
+  ],
+  "Cat3": [
+    {
+      "id": 5,
+      "heading": "Earth",
+      "title": "JJ Spaun captures dramatic US Open win",
+      "summary": "Spaun overcomes tough competition to win his first major golf title.",
+      "image": "/assets/images/news/multicat2-3.jpg",
+      "href": "/news/1",
+      "time": "31 May 2025",
+      "place": "Golf"
+    },
+    {
+      "id": 6,
+      "heading": "Earth",
+      "title": "Norris regrets clash with teammate Piastri",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "9 Jun 2024",
+      "place": "Formula 1"
+    },
+    {
+      "id": 7,
+      "heading": "Earth",
+      "title": "PSG dominate Atletico Madrid in friendly",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Culture"
+    },
+    {
+      "id": 8,
+      "heading": "Earth",
+      "title": "Auckland vs Bayern: The mismatch explained",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Football"
+    }
+  ],
+  "Cat4": [
+    {
+      "id": 5,
+      "heading": "Business",
+      "title": "US-made sneakers: A costly alternative?",
+      "summary": "Manufacturers struggle to produce locally without raising prices.",
+      "image": "/assets/images/news/multicat2-4.jpg",
+      "href": "/news/1",
+      "time": "31 May 2025",
+      "place": "Business"
+    },
+    {
+      "id": 6,
+      "heading": "Business",
+      "title": "Undocumented workers hide in California farms",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "9 Jun 2024",
+      "place": "US & Canada"
+    },
+    {
+      "id": 7,
+      "heading": "Business",
+      "title": "Women entrepreneurs lead Somali construction boom",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Africa"
+    },
+    {
+      "id": 8,
+      "heading": "Business",
+      "title": "Oil markets surge after Middle East attacks",
+      "summary": "",
+      "image": "NA",
+      "href": "/news/1",
+      "time": "5 Aug 2020",
+      "place": "Business"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  { "label": "Home", "href": "/", "status": "1" },
+  {
+    "label": "News",
+    "href": "/news",
+    "status": "0",
+    "children": [
+      { "label": "Politics", "href": "/news/politics" },
+      { "label": "World", "href": "/news/world" },
+      { "label": "Local", "href": "/news/local" }
+    ]
+  },
+  { "label": "Sport", "href": "/sport ", "status": "0" },
+  { "label": "Business", "href": "/business", "status": "0" },
+  { "label": "Innovation", "href": "/innovation", "status": "0" },
+  { "label": "Culture", "href": "/culture", "status": "0" },
+  { "label": "Arts", "href": "/arts", "status": "0" },
+  { "label": "Travel", "href": "/travel", "status": "0" },
+  { "label": "Earth", "href": "/future-planet", "status": "0" },
+  { "label": "Audio", "href": "/audio", "status": "0" },
+  { "label": "Video", "href": "/video", "status": "0" },
+  { "label": "Live", "href": "/live", "status": "0" }
+]

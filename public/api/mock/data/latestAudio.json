@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "AI-powered glasses help visually impaired 'see' surroundings",
+    "summary": "",
+    "image": "/assets/images/news/lanews1.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 2,
+    "title": "Major cities adopt smart traffic signals to ease congestion",
+    "summary": "",
+    "image": "/assets/images/news/lanews2.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 3,
+    "title": "Startup launches solar-powered smartphone",
+    "summary": "",
+    "image": "/assets/images/news/lanews1.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 4,
+    "title": "Quantum computing: The next leap in cybersecurity",
+    "summary": "",
+    "image": "/assets/images/news/lanews4.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 5,
+    "title": "Can biodegradable batteries solve e-waste crisis?",
+    "summary": "",
+    "image": "/assets/images/news/lanews5.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 6,
+    "title": "Tech giants join forces to fight deepfake misinformation",
+    "summary": "",
+    "image": "/assets/images/news/lanews5.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 7,
+    "title": "How drone delivery is reshaping healthcare in rural India",
+    "summary": "",
+    "image": "/assets/images/news/lanews7.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  },
+  {
+    "id": 8,
+    "title": "Smart farming: Robots now harvest delicate fruits",
+    "summary": "",
+    "image": "/assets/images/news/lanews2.jpg",
+    "href": "/news/1",
+    "time": "28 min",
+    "place": "",
+    "videoLink": "https://www.youtube.com/watch?v=OjZKd9XbM8o"
+  }
+]

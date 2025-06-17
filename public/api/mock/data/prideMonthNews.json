@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "type": "pmNews",
+    "title": "The trans teen drama that pulls no punches",
+    "summary": "What It Feels Like For A Girl, a coming-of-age BBC drama, is a visceral look at English working-class life when you don't fit in.",
+    "image": "/assets/images/news/pmNews1.jpg",
+    "href" : "/news/1",
+    "time" : "31 May 2025",
+    "place" : "Culture"
+  },
+  {
+    "id": 2,
+    "type": "pmNews",
+    "title": "Seven of the best LGBTQ+ spaces in Berlin",
+    "summary": "DJ Cormac, a star in Berlin's queer dance music scene, shares a guide of spots from gay saunas to a body art studio.",
+    "image": "/assets/images/news/pmNews2.jpg",
+    "href" : "/news/1",
+    "time" : "9 Jun 2024",
+    "place" : "Travel"
+  },
+  {
+    "id": 3,
+    "type": "pmNews",
+    "title": "Village People: The band that brought gay sex to pop",
+    "summary": "Critic Jack King explains why, for all their cheesy reputation, the YMCA hitmakers fire him up like few others.",
+    "image": "/assets/images/news/pmNews3.jpg",
+    "href" : "/news/1",
+    "time" : "5 Aug 2020",
+    "place" : "Culture"
+  }
+]
+

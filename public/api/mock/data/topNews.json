@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "type": "main",
+    "title": "Breaking News: Market Hits Record High",
+    "summary": "Stock market reaches all-time high amid economic optimism.",
+    "image": "/assets/images/news/news1.jpg",
+    "href" : "/news/1",
+    "time" : "8 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 2,
+    "type": "other",
+    "title": "Mass protests against Trump across US as president holds huge military parade",
+    "summary": "Organisers said hundreds of demonstrations were held in a day of defiance to counter a huge military parade hosted by Trump.",
+    "image": "/assets/images/news/news2.jpg",
+    "href" : "/news/1",
+    "time" : "10 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 3,
+    "type": "other",
+    "title": "Manhunt after two Minnesota state politicians targeted, one of them killed",
+    "summary": "Hortman and her husband were killed and Hoffman and his wife injured in what officials called 'targeted political violence'.",
+    "image": "/assets/images/news/news3.jpg",
+    "href" : "/news/1",
+    "time" : "12 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 4,
+    "type": "other",
+    "title": "The first trial of its kind: A Russian soldier takes the stand for an execution",
+    "summary": "Dmitriy Kurashov is the first Russian soldier to stand trial in Ukraine over a battlefield execution.",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 5,
+    "type": "other",
+    "title": "Ex-Syrian commander claims missing US journalist Austin Tice was executed",
+    "summary": "Major General Bassam Al Hassan claims former Syrian President Assad ordered Austin Tice's execution.",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 6,
+    "type": "other",
+    "title": "Wait for bodies deepens pain of families after Air India crash",
+    "summary": "Officials said on Saturday that 11 victims had been identified so far based on their DNA",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Asia"
+  },
+  {
+    "id": 7,
+    "type": "other",
+    "title": "Wait for bodies deepens pain of families after Air India crash",
+    "summary": "Officials said on Saturday that 11 victims had been identified so far based on their DNA",
+    "image": "NA",
+    "href" : "/news/1",
+    "time" : "13 hrs ago",
+    "place" : "Asia"
+  }
+]
+

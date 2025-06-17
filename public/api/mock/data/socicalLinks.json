@@ -1,0 +1,8 @@
+[
+  { "label": "twitter-x", "href": "https://x.com/bbcworld", "iconClass": "bi bi-twitter-x" },
+  { "label": "facebook", "href": "https://www.facebook.com/bbcnews", "iconClass": "bi bi-facebook" },
+  { "label": "instagram", "href": "https://www.instagram.com/bbcnews", "iconClass": "bi bi-instagram" },
+  { "label": "tiktok", "href": "https://www.tiktok.com/@bbcnews", "iconClass": "bi bi-tiktok" },
+  { "label": "linkedin", "href": "https://www.linkedin.com/company/bbc-news/", "iconClass": "bi bi-linkedin" },
+  { "label": "youtube", "href": "https://www.youtube.com/bbcnews", "iconClass": "bi bi-youtube" }
+]

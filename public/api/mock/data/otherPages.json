@@ -1,0 +1,11 @@
+[
+  { "label": "Terms of Use", "href": "/terms"},
+  { "label": "About the BBC", "href": "/about-bbc"},
+  { "label": "Privacy Policy", "href": "/privacy"},
+  { "label": "Cookies", "href": "/cookies"},
+  { "label": "Accessibility Help", "href": "/accessibility"},
+  { "label": "Contact the BBC", "href": "/contact" },
+  { "label": "Advertise with us", "href": "/advertise" },
+  { "label": "Do not share or sell my info", "href": "/do-not-share" },
+  { "label": "Contact technical support", "href": "/support" }
+]

@@ -1,0 +1,137 @@
+:root {
+  --primary-color: #202224;
+  --border-color: #dee2e6;
+  --bg-dark: #141618;
+
+  --font-10: clamp(9px, 0.5vw, 10px);
+  --font-11: clamp(10px, 0.55vw, 11px);
+  --font-12: clamp(12px, 0.9vw, 12px);
+  --font-13: clamp(12px, 0.65vw, 13px);
+  --font-14: clamp(13px, 1vw, 14px);
+  --font-15: clamp(14px, 0.75vw, 15px);
+  --font-16: clamp(15px, 1vw, 16px);
+  --font-17: clamp(16px, 0.85vw, 17px);
+  --font-18: clamp(17px, 0.9vw, 18px);
+  --font-19: clamp(18px, 0.95vw, 19px);
+  --font-20: clamp(19px, 1vw, 20px);
+  --font-21: clamp(20px, 1.05vw, 21px);
+  --font-22: clamp(21px, 1.1vw, 22px);
+  --font-23: clamp(22px, 1.15vw, 23px);
+  --font-24: clamp(23px, 1.2vw, 24px);
+  --font-28: clamp(25px, 2vw, 28px);
+  --font-48: clamp(42px, 1.5vw, 48px);
+}
+
+.fs-12 {
+  font-size: var(--font-12);
+}
+
+.fs-14 {
+  font-size: var(--font-14);
+}
+
+.fs-16 {
+  font-size: var(--font-16);
+}
+
+.navbar-collapse {
+  position: absolute;
+  top: 77px;
+  left: 0px;
+  width: 300px;
+  background: white;
+  height: 100lvh;
+  border-top: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+}
+.navbar-collapse .navbar-nav .nav-item {
+  padding: 0px 24px;
+  border-bottom: 1px solid var(--border-color);
+}
+.navbar-collapse .navbar-nav .nav-item .nav-link {
+  font-weight: 600;
+}
+
+.nav-item .nav-link.dropdown-toggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-menu {
+  margin-top: 77px;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  gap: 10px;
+  padding: 5px;
+  font-size: var(--font-14);
+}
+
+.nav-menu li a.active {
+  border-bottom: 3px solid transparent;
+  padding: 5px;
+}
+.nav-menu li a.active {
+  border-bottom: 3px solid black;
+}
+
+.heading-sm {
+  font-size: var(--font-18);
+}
+
+.heading-md {
+  font-size: var(--font-28);
+}
+
+.heading-lg {
+  font-size: var(--font-48);
+}
+
+.news-summary {
+  font-size: var(--font-15);
+}
+
+.news-details {
+  font-size: var(--font-14);
+}
+
+@media screen and (max-width: 996px) {
+  .main-container {
+    margin-top: 100px;
+  }
+}
+
+.aspect-sq {
+  aspect-ratio: 1/1;
+}
+
+.bgDark{
+  background-color: var(--bg-dark) !important;
+}
+
+.w-fit{
+  width: fit-content !important;
+}
+
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev,
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  top: 20px !important;
+  background-color: var(--bg-dark) !important;
+  aspect-ratio: 1/1 !important;
+  width: auto !important;
+}
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  left: auto !important;
+  right: var(--swiper-navigation-sides-offset, 50px) !important;
+}
+
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  font-size: 20px !important;
+  color: white !important;
+}
