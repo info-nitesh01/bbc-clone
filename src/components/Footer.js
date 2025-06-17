@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import SocialFollow from "./SocialFollow";
+import { LanguageSwitcher } from "./LanguageSwitcher";
 
 export default function Footer() {
     const baseUrl = process.env.NEXT_PUBLIC_SITE_URL;
@@ -34,6 +35,7 @@ export default function Footer() {
                         </li>
                     ))}
                 </ul>
+                <LanguageSwitcher />
                 <SocialFollow />
                 <ul className="d-flex flex-wrap py-3 gap-3 list-unstyled mb-0 fs-12">
                     {otherPages.map((link, index) => (

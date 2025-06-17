@@ -2,6 +2,7 @@
   --primary-color: #202224;
   --border-color: #dee2e6;
   --bg-dark: #141618;
+  --bg-grey: #d2d4d6;
 
   --font-10: clamp(9px, 0.5vw, 10px);
   --font-11: clamp(10px, 0.55vw, 11px);
@@ -106,11 +107,15 @@
   aspect-ratio: 1/1;
 }
 
-.bgDark{
+.bgDark {
   background-color: var(--bg-dark) !important;
 }
 
-.w-fit{
+.bgGrey{
+  background-color: var(--bg-grey) !important;
+}
+
+.w-fit {
   width: fit-content !important;
 }
 
@@ -129,9 +134,12 @@
   right: var(--swiper-navigation-sides-offset, 50px) !important;
 }
 
-
 .swiper-button-prev:after,
 .swiper-button-next:after {
   font-size: 20px !important;
   color: white !important;
+}
+
+.skiptranslate {
+  display: none !important;
 }
