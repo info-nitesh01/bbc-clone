@@ -34,7 +34,7 @@ export default function NewsCard({ data = [], imgHeight = 300, headingSize = "sm
                                 {item.image !== "NA" && (
                                     <div className={`col-md-8 ${order === "inverse" ? "order-0" : "order-0 order-md-1"}`}>
                                         <div className="mb-2 position-relative">
-                                            <Image className="w-100 h-auto" src={item.image} alt={item.title || "News image"} width={300} height={imgHeight} />
+                                            <Image className="w-100 h-auto" src={item.image} alt={item.title || "News image"} width={300} height={imgHeight} loading="lazy" />
                                             {item.videoLink && (
                                                 <button className="btn btn-dark rounded-0 position-absolute bottom-0 start-0 aspect-sq py-0"><i className="bi bi-play-fill fs-1"></i></button>
                                             )}
@@ -47,7 +47,7 @@ export default function NewsCard({ data = [], imgHeight = 300, headingSize = "sm
                         <div className={`card border-0 mb-3 rounded-0 ${bgColor} ${bgColor === "bgDark" ? "text-white" : "border-bottom"}`}>
                             {item.image !== "NA" && (
                                 <div className="mb-2 position-relative">
-                                    <Image className={`w-100 h-auto object-fit-cover ${imageLayout}`} src={item.image} alt={item.title || "News image"} width={300} height={imgHeight} />
+                                    <Image className={`w-100 h-auto object-fit-cover ${imageLayout}`} src={item.image} alt={item.title || "News image"} width={300} height={imgHeight} loading="lazy" />
                                     {item.videoLink && (
                                         <button className="btn btn-dark rounded-0 btn-sm position-absolute bottom-0 start-0 aspect-sq py-0"><i className="bi bi-play-fill fs-4"></i></button>
                                     )}

@@ -48,7 +48,7 @@ const LanguageSwitcher = () => {
             <select
                 value=""
                 onChange={handleChange}
-                className="p-3 border-0 text-dark bgGrey rounded-0 fs-16"
+                className="px-3 py-2 border-0 fw-semibold text-dark bgGrey rounded-0 fs-16"
             >
                 <option value="">BBC in other language</option>
                 {languageConfig.languages.map((ld) => (

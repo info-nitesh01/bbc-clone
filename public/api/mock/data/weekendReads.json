@@ -4,7 +4,7 @@
     "title": "Can the Beckham brand survive reports of family feud?",
     "summary": "A PR expert says coverage has begun to affect the family's public image, with it taking a more soap opera-like tone.",
     "image": "/assets/images/news/wrnews1.jpg",
-    "href" : "/news/1",
+    "href" : "/news",
     "time" : "8 hrs ago",
     "place" : "Technology"
   },
@@ -13,7 +13,7 @@
     "title": "How Europe is fighting the summer surge",
     "summary": "Anti-tourism protests may be returning this summer, but so are new ideas to make travel more sustainable, from smart tech to visitor taxes and travel rewards.",
     "image": "/assets/images/news/wrnews2.jpg",
-    "href" : "/news/1",
+    "href" : "/news",
     "time" : "10 hrs ago",
     "place" : "Technology"
   }
